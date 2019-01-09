@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "name": "KaiOS App",
+  "description": "A file simple example manifest.webapp",
+  "launch_path": "index.html",
+  "icons": {
+    "56": "56.png",
+    "112": "112.png"
+  },
+  "developer": {
+    "name": "Ka Yin",
+    "url": "https://tictactoe1.github.io/"
+  },
+  "locales": {
+    "en-US": {
+      "name": "Tic tac toe",
+      "description": "Your tictactoe application"
+    }
+  },
+  "default_locale": "en-US"
+}
