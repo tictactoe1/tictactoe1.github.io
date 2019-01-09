@@ -2,10 +2,11 @@
   "version": "1.0.0",
   "name": "KaiOS App",
   "description": "A file simple example manifest.webapp",
-  "launch_path": "index.html",
+  "launch_path": "/index.html",
   "icons": {
-    "56": "56.png",
-    "112": "112.png"
+    "56": "/56.png",
+    "112": "/112.png",
+    "128": "/128.png"
   },
   "developer": {
     "name": "Ka Yin",
